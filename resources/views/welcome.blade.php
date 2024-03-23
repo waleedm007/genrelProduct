@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en" class="light-style layout-navbar-fixed layout-menu-fixed layout-compact " dir="ltr" data-theme="theme-default" data-assets-path="../../assets/" data-template="vertical-menu-template">
+<html lang="en" class="light-style layout-navbar-fixed layout-menu-fixed layout-compact " dir="ltr" data-theme="theme-default" data-assets-path="/" data-template="vertical-menu-template">
 
   
 <!-- Mirrored from demos.pixinvent.com/materialize-html-admin-template/html/vertical-menu-template/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 22 Mar 2024 17:30:47 GMT -->
@@ -1445,7 +1445,7 @@
                     <div class="d-flex gap-2">
                       <div class="flex-shrink-0">
                         <div class="avatar me-1">
-                          <img src="../../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
+                          <img src="/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
                         </div>
                       </div>
                       <div class="d-flex flex-column flex-grow-1 overflow-hidden w-px-200">
@@ -1477,7 +1477,7 @@
                     <div class="d-flex gap-2">
                       <div class="flex-shrink-0">
                         <div class="avatar me-1">
-                          <img src="../../assets/img/avatars/2.png" alt class="w-px-40 h-auto rounded-circle">
+                          <img src="/img/avatars/2.png" alt class="w-px-40 h-auto rounded-circle">
                         </div>
                       </div>
                       <div class="d-flex flex-column flex-grow-1 overflow-hidden w-px-200">
@@ -1509,7 +1509,7 @@
                     <div class="d-flex gap-2">
                       <div class="flex-shrink-0">
                         <div class="avatar me-1">
-                          <img src="../../assets/img/avatars/9.png" alt class="w-px-40 h-auto rounded-circle">
+                          <img src="/img/avatars/9.png" alt class="w-px-40 h-auto rounded-circle">
                         </div>
                       </div>
                       <div class="d-flex flex-column flex-grow-1 overflow-hidden w-px-200">
@@ -1541,7 +1541,7 @@
                     <div class="d-flex gap-2">
                       <div class="flex-shrink-0">
                         <div class="avatar me-1">
-                          <img src="../../assets/img/avatars/5.png" alt class="w-px-40 h-auto rounded-circle">
+                          <img src="/img/avatars/5.png" alt class="w-px-40 h-auto rounded-circle">
                         </div>
                       </div>
                       <div class="d-flex flex-column flex-grow-1 overflow-hidden w-px-200">
@@ -1557,7 +1557,7 @@
                     <div class="d-flex gap-2">
                       <div class="flex-shrink-0">
                         <div class="avatar me-1">
-                          <img src="../../assets/img/avatars/6.png" alt class="w-px-40 h-auto rounded-circle">
+                          <img src="/img/avatars/6.png" alt class="w-px-40 h-auto rounded-circle">
                         </div>
                       </div>
                       <div class="d-flex flex-column flex-grow-1 overflow-hidden w-px-200">
@@ -1600,7 +1600,7 @@
           <li class="nav-item navbar-dropdown dropdown-user dropdown">
             <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
               <div class="avatar avatar-online">
-                <img src="../../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
+                <img src="/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
               </div>
             </a>
             <ul class="dropdown-menu dropdown-menu-end">
@@ -1609,7 +1609,7 @@
                   <div class="d-flex">
                     <div class="flex-shrink-0 me-3">
                       <div class="avatar avatar-online">
-                        <img src="../../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
+                        <img src="/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
                       </div>
                     </div>
                     <div class="flex-grow-1">
@@ -1714,7 +1714,7 @@
         </div>
         <div class="col-md-6 text-center text-md-end order-1 order-md-2">
           <div class="card-body pb-0 px-0 px-md-4 ps-0">
-            <img src="../../assets/img/illustrations/illustration-john-light.png" height="180" alt="View Profile" data-app-light-img="illustrations/illustration-john-light.png" data-app-dark-img="illustrations/illustration-john-dark.html">
+            <img src="/img/illustrations/illustration-john-light.png" height="180" alt="View Profile" data-app-light-img="illustrations/illustration-john-light.png" data-app-dark-img="illustrations/illustration-john-dark.html">
           </div>
         </div>
       </div>
@@ -1886,7 +1886,7 @@
             <div class="avatar avatar-md flex-shrink-0 me-3">
               <div class="avatar-initial bg-lighter rounded">
                 <div>
-                  <img src="../../assets/img/icons/misc/3d-illustration.png" alt="User" class="h-25">
+                  <img src="/img/icons/misc/3d-illustration.png" alt="User" class="h-25">
                 </div>
               </div>
             </div>
@@ -1902,7 +1902,7 @@
             <div class="avatar avatar-md flex-shrink-0 me-3">
               <div class="avatar-initial bg-lighter rounded">
                 <div>
-                  <img src="../../assets/img/icons/misc/finance-app-design.png" alt="User" class="h-25">
+                  <img src="/img/icons/misc/finance-app-design.png" alt="User" class="h-25">
                 </div>
               </div>
             </div>
@@ -1918,7 +1918,7 @@
             <div class="avatar avatar-md flex-shrink-0 me-3">
               <div class="avatar-initial bg-lighter rounded">
                 <div>
-                  <img src="../../assets/img/icons/misc/4-square.png" alt="User" class="h-25">
+                  <img src="/img/icons/misc/4-square.png" alt="User" class="h-25">
                 </div>
               </div>
             </div>
@@ -1934,7 +1934,7 @@
             <div class="avatar avatar-md flex-shrink-0 me-3">
               <div class="avatar-initial bg-lighter rounded">
                 <div>
-                  <img src="../../assets/img/icons/misc/delta-web-app.png" alt="User" class="h-25">
+                  <img src="/img/icons/misc/delta-web-app.png" alt="User" class="h-25">
                 </div>
               </div>
             </div>
@@ -1950,7 +1950,7 @@
             <div class="avatar avatar-md flex-shrink-0 me-3">
               <div class="avatar-initial bg-lighter rounded">
                 <div>
-                  <img src="../../assets/img/icons/misc/ecommerce-website.png" alt="User" class="h-25">
+                  <img src="/img/icons/misc/ecommerce-website.png" alt="User" class="h-25">
                 </div>
               </div>
             </div>
@@ -2451,7 +2451,7 @@
               <p class="mb-2">Meeting Video call on zoom at 9pm</p>
               <div class="d-flex">
                 <a href="javascript:void(0)" class="me-3">
-                  <img src="../../assets/img/icons/misc/pdf.png" alt="PDF image" width="20" class="me-2">
+                  <img src="/img/icons/misc/pdf.png" alt="PDF image" width="20" class="me-2">
                   <span class="fw-medium">presentation.pdf</span>
                 </a>
               </div>
